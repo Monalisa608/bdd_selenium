@@ -1,0 +1,2 @@
+INFO    2024-01-02 18:39:32,372 [main] com.quickauto.base.TestBase  - browser Name : Chrome
+DEBUG   2024-01-02 18:39:38,395 [main] com.quickauto.base.TestBase  - By.xpath: //div[@class='app_logo' and contains(text(),'Swag Labs')] present

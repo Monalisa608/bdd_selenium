@@ -1,0 +1,6 @@
+com\quickauto\testcases\LogInTest.class
+com\quickauto\base\PropertiesReader.class
+com\quickauto\utilities\UtilFW.class
+com\quickauto\base\TestBase.class
+com\quickauto\rough\Reader.class
+com\quickauto\testcases\HomePageTest.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BDDSuite">
+	<test thread-count="5" name="BDDTest">
+		<classes>
+			<!--  <class name="com.quickauto.testcases.LogInTest" />-->
+			<class name="com.quickauto.testcases.HomePageTest" />
+		
+		</classes>
+	</test> <!-- BDDTest -->
+</suite> <!-- BDDSuite -->
